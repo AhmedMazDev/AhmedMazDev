@@ -1,10 +1,10 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed+%F0%9F%91%8B;Full-Stack+Developer;Automation+Engineer" alt="Typing SVG" />
-
-</div>
+# Ahmed Mazegh
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+%F0%9F%91%8B;Full-Stack+Developer;Automation+Engineer;Building+Modern+Web+Applications" />
+
+<h3>Building scalable web applications, APIs and AI-powered automations.</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedMazDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazegh-ahmed/)
@@ -13,9 +13,9 @@
 
 </div>
 
-<br>
+---
 
-## 👋 About Me
+# 👋 About Me
 
 I'm a full-stack freelance developer who works mainly with **Next.js** and **Node.js**, building web apps and automations for clients. I enjoy solving problems end to end — from architecture to shipping — and I'm always picking up new tools along the way.
 
@@ -24,7 +24,19 @@ I'm a full-stack freelance developer who works mainly with **Next.js** and **Nod
 - 🌱 Always learning something new
 - 📫 Reach me through any of the links above
 
-<br>
+---
+
+# 💼 Services
+
+- Full-Stack Web Development
+- SaaS Applications
+- REST & GraphQL APIs
+- AI Integrations
+- Business Automation
+- Dashboard Development
+- Performance Optimization
+
+
 
 ## 🧰 Tech Stack
 
@@ -43,10 +55,7 @@ I'm a full-stack freelance developer who works mainly with **Next.js** and **Nod
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend / APIs**
 
@@ -108,28 +117,22 @@ I'm a full-stack freelance developer who works mainly with **Next.js** and **Nod
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 </div>
 
-<br>
 
-## 📊 GitHub Stats
+# 🎯 What I Build
 
-<div align="center">
+- SaaS Platforms
+- Admin Dashboards
+- AI-powered Applications
+- Internal Business Tools
+- Real-time Systems
+- Workflow Automations
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedMazDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMazDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="30%" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMazDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+# 📫 Let's Connect
 
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AhmedMazDev&style=for-the-badge&color=7AA2F7" alt="Profile views" />
-</div>
+I'm always interested in freelance work, startup collaborations, and challenging engineering problems.
